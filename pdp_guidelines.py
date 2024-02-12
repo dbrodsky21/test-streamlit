@@ -75,7 +75,7 @@ with st.expander(label="Image Gallery Guidelines", expanded=False):
     st.markdown("### Photo Guidelines for Food Offering")
     # with st.expander("See guidelines:"):
     st.markdown("""
-    1. Include **4 to 5+** QUALITY photos of **food**
+    1. Include **4 to 5** QUALITY photos of **food**
         - 3:4 aspect ratio (configure the cropping when uploading)
         - Not blurry (check on desktop)
         - Consider using an instagram photo downloader tool, e.g. https://toolzu.com/downloader/instagram/photo/, to get all the photos from an insta account
