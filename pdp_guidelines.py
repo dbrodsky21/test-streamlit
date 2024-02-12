@@ -65,16 +65,17 @@ with st.expander("""High-Level Guidelines"""):
         - How Membership Works
         - Additional Perks (BUT ONLY IF THEY'RE MEANINGFUL)
         - Who You're Supporting
-    4. Include 5+ high quality **food** photos
-    5. Make an **appealing** sample menu — ask yourself: "Does this feel like a good value? Would I buy this?"
-    6. Use **bolding** & _italics_ to convey meaning — imagine a user only reads the bolded words, is that a coherent messsage?
+    4. Aim for 4 to 5 high quality **food** photos
+    5. Include no more than 8 TOTAL photos
+    6. Make an **appealing** sample menu — ask yourself: "Does this feel like a good value? Would I buy this?"
+    7. Use **bolding** & _italics_ to convey meaning — imagine a user only reads the bolded words, is that a coherent messsage?
     """)
 
 with st.expander(label="Image Gallery Guidelines", expanded=False):
     st.markdown("### Photo Guidelines for Food Offering")
     # with st.expander("See guidelines:"):
     st.markdown("""
-    1. Include **5+** QUALITY photos of **food**
+    1. Include **4 to 5+** QUALITY photos of **food**
         - 3:4 aspect ratio (configure the cropping when uploading)
         - Not blurry (check on desktop)
         - Consider using an instagram photo downloader tool, e.g. https://toolzu.com/downloader/instagram/photo/, to get all the photos from an insta account
@@ -85,7 +86,7 @@ with st.expander(label="Image Gallery Guidelines", expanded=False):
         - If you have a sample menu, try to have some photos map to that
     3. Include a photo of the Chef/Owner/Team/space towards the end
     4. If delivery is available, include a photo of the delivery map towards the end
-    5. ...
+    5. Make sure you have no more than 8 total photos.
 
     """)
 
