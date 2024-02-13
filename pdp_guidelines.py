@@ -95,8 +95,8 @@ with st.expander(label="Sample PDPs to Reference", expanded=False):
     # with st.expander("See guidelines:"):
     st.markdown("""
     1. Red Hen / All Purpose — https://app.table22.com/product/redhen-allpurpose-chefs-dinner-club
-    2. Cardamom — 
-    3. Brasa — 
+    2. Cardamom — https://app.table22.com/product/cardamom-dinner-club
+    3. Scratch & Co. — https://app.table22.com/product/scratch-co-supper-club
     """)
 
 
