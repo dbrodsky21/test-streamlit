@@ -84,10 +84,13 @@ with st.expander(label="Image Gallery Guidelines", expanded=False):
         - Lead w/ a protein or star dish vs. a dessert or salad
         - Avoid dishes that are ill-suited for at-home, e.g. "tweezer" dishes reliant on plating, raw dishes (ceviches & tartares),
         - If you have a sample menu, try to have some photos map to that
+        - Try to **AVOID photos of takeout containers / things that look unappealing**
     3. Include a photo of the Chef/Owner/Team/space towards the end
     4. If delivery is available, include a photo of the delivery map towards the end
     5. Make sure you have no more than 8 total photos.
-
+    6. If you have videos relevant to the program, include one.
+    7. If you have **visually appealing** photos from past fulfillments, include those.
+    8. If you have a beautiful, live **membership card**, include that towards the end.
     """)
 
 with st.expander(label="Sample PDPs to Reference", expanded=False):
@@ -196,3 +199,19 @@ st.markdown("### Accordion Sections")
 for title, content in accordion_sections.items():
     with st.expander(title):
         st.write(content)
+
+# st.markdown("""### Checklist""")
+#
+# st.checkbox("Implemented radio-style boxes")
+# st.checkbox("Have a 1-liner in top section describing 'The Experience'")
+# st.checkbox("Add-On sections using standard recommended language")
+# st.checkbox("Add-On sections have sufficient info for user to know what they get")
+# st.checkbox("Add-On sections have 'No, Thank You' as default choice")
+# st.checkbox("Variant choices formatted properly")
+# st.checkbox("Fulfillment Type -> 'Pickup or Delivery?'")
+# st.checkbox("Fulfillment Type -> 'See delivery map in delivery'")
+#
+# st.checkbox("Have 4+ good food images")
+# st.checkbox("Have <=8 total images")
+# st.checkbox("Checked for available videos on instagram; added if exist")
+# st.checkbox("Checked for available videos on instagram; added if exist")
